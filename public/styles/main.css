@@ -14,7 +14,9 @@ a {
   border: none;
   font-family: "Arial", sans-serif;
 }
-
+navbar-brand{
+  background-color: white;
+}
 body {
   background-color: #f7f9fc;
   color: #333;

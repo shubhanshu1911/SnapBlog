@@ -79,3 +79,10 @@ app.get("/api/posts/delete/:id", async (req, res) => {
 app.listen(port, () => {
   console.log(`Backend server is running on http://localhost:${port}`);
 });
+
+
+
+
+// WqvNvuqsLT78i0Dz
+// mongodb+srv://ishankhare30:<password>@cluster0.urjjilc.mongodb.net/?retryWrites=true&w=majority
+// npm install mongodb
